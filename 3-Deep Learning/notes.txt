@@ -1,0 +1,2 @@
+Hardware
+Pytorch - cuda toolkit - gpu toolkit driver version compatibility tables: https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
